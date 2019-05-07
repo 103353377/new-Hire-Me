@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Cinzel', serif;
+    Color:gold;
+    text-align:center;
+}
+p{
+    font-family: 'Fredoka One', cursive;
+    color:red;
+    text-align:center;
+}
+body {
+ background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/calm-reflective-water-background_bjnehswwh__F0000.png");
+ background-color: #cccccc;
+}
+img{
+    border:solid;
+}
+body{
+    text-align:center;
+}
